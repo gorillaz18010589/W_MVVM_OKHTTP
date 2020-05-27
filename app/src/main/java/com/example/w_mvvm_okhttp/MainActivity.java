@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     //3.刪除Observe
     private void removeOb() {
-        nameData.removeObserver();
+
     }
 
 
